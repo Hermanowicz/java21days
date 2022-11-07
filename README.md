@@ -5,7 +5,8 @@
 ```java
 class myClass {
     
-  String s = String.format("Format string content: %.2f %d %s ", myFloat, myInt, myString);
+  String s = String.format("Format string content: %.2f %d %s ", 
+          myFloat, myInt, myString);
   // then in main or method you can run print as:
   // System.out.println(s);
 }
