@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3005c2f7-db04-4cee-869d-29710e8dc052" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="3005c2f7-db04-4cee-869d-29710e8dc052" name="Changes" comment="Style fix.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java21days/TokenTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thermanowicz\IdeaProjects\java21days\src\main\java\org\example" />
@@ -54,7 +55,7 @@
   </component>
   <component name="RunManager">
     <configuration name="test-config" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.java21days.Weather" />
+      <option name="MAIN_CLASS_NAME" value="com.java21days.TokenTester" />
       <module name="java21days" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,8 +70,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667844721676</updated>
-      <workItem from="1667844723831" duration="8228000" />
+      <workItem from="1667844723831" duration="8528000" />
+      <workItem from="1667895916087" duration="3646000" />
+      <workItem from="1667913832508" duration="9000" />
+      <workItem from="1667914984937" duration="4374000" />
     </task>
+    <task id="LOCAL-00001" summary="Style fix.">
+      <created>1667853819946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667853819946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Style fix." />
+    <option name="LAST_COMMIT_MESSAGE" value="Style fix." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
