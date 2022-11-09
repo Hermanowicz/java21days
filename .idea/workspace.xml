@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3005c2f7-db04-4cee-869d-29710e8dc052" name="Changes" comment="day 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java21days/C_hwd.java" afterDir="false" />
+    <list default="true" id="3005c2f7-db04-4cee-869d-29710e8dc052" name="Changes" comment="day 3 - Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java21days/PointSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java21days/PointSetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/java21days/TokenTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java21days/TokenTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +73,7 @@
       <workItem from="1667844723831" duration="8528000" />
       <workItem from="1667895916087" duration="3646000" />
       <workItem from="1667913832508" duration="9000" />
-      <workItem from="1667914984937" duration="6981000" />
+      <workItem from="1667914984937" duration="7623000" />
     </task>
     <task id="LOCAL-00001" summary="Style fix.">
       <created>1667853819946</created>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668031936771</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 3 - Exercise">
+      <created>1668032855776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668032855776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +124,8 @@
     <MESSAGE value="Style fix." />
     <MESSAGE value="Style fixes .printf insted of .format&#10;Plus use of forEachRemaining on iterator" />
     <MESSAGE value="day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
+    <MESSAGE value="day 3 - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 - Exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
