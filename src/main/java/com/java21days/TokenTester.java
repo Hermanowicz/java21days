@@ -10,7 +10,7 @@ public class TokenTester {
         String two = "RHT@185.98@80".trim();
 
         str1 = new StringTokenizer(one);
-        str2 = new StringTokenizer(two, ".");
+        str2 = new StringTokenizer(two, "@");
 
         str1.asIterator().forEachRemaining( token -> System.out.printf("token %s from \"%s\"%n", token, one));
 
