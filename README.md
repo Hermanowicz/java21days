@@ -28,7 +28,9 @@ class Demo_Token {
             DoSomethingWithToken(token);
         }); 
         
+        // parsing to int/float from string
         int number = Integer.parseInt("8080");
+        float diff_num = Float.parseFloat("123.95");
     }
 }
 ```
